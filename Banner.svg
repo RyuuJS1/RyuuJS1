@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 130" width="100%" height="130">
+  <defs>
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#d4af37" />
+      <stop offset="50%" stop-color="#38bdf8" />
+      <stop offset="100%" stop-color="#4ade80" />
+    </linearGradient>
+
+    <g id="star">
+      <path class="star-shape" d="M 0,-6 Q 0,0 6,0 Q 0,0 0,6 Q 0,0 -6,0 Q 0,0 0,-6 Z" />
+    </g>
+    <g id="dot-star">
+      <circle class="star-shape" r="1.8" />
+    </g>
+  </defs>
+
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@700&amp;display=swap');
+
+    .bg-rect { fill: #0b1329; }
+    .star-shape {
+      fill: #fff952;
+      filter: drop-shadow(0px 0px 4px #fff952);
+    }
+    .base-title {
+      font-family: 'Cinzel', 'Georgia', serif;
+      font-weight: 700;
+      font-size: 60px;
+      letter-spacing: 3px;
+      text-anchor: middle;
+      dominant-baseline: central;
+    }
+    .ryuu-text {
+      fill: #ffffff;
+      stroke: #ffffff;
+      stroke-width: 0.8px;
+      filter: drop-shadow(0px 0px 8px #ffffff);
+    }
+    .js-text {
+      fill: #d4af37;
+      stroke: #d4af37;
+      stroke-width: 0.8px;
+      filter: drop-shadow(0px 0px 8px #d4af37);
+    }
+  </style>
+
+  <rect x="5" y="5" width="790" height="120" rx="12" class="bg-rect" />
+  <rect x="5" y="5" width="790" height="120" rx="12" fill="none" stroke="url(#borderGrad)" stroke-width="3" />
+  <rect x="12" y="12" width="776" height="106" rx="8" fill="none" stroke="#d4af37" stroke-width="1" stroke-opacity="0.5" />
+
+  <g id="star-field">
+    <use href="#star" transform="translate(65, 30) scale(0.9)" opacity="0">
+      <animate attributeName="opacity" values="0;0.9;0" dur="2.8s" begin="0.2s" repeatCount="indefinite" />
+    </use>
+    <use href="#dot-star" transform="translate(130, 95)" opacity="0">
+      <animate attributeName="opacity" values="0;1;0" dur="3.4s" begin="1.1s" repeatCount="indefinite" />
+    </use>
+    <use href="#star" transform="translate(210, 25) scale(1.1)" opacity="0">
+      <animate attributeName="opacity" values="0;1;0" dur="2.3s" begin="0.8s" repeatCount="indefinite" />
+    </use>
+    <use href="#dot-star" transform="translate(290, 105)" opacity="0">
+      <animate attributeName="opacity" values="0;0.8;0" dur="3.1s" begin="2.0s" repeatCount="indefinite" />
+    </use>
+    <use href="#star" transform="translate(370, 20) scale(0.8)" opacity="0">
+      <animate attributeName="opacity" values="0;1;0" dur="2.5s" begin="0.5s" repeatCount="indefinite" />
+    </use>
+    <use href="#star" transform="translate(450, 110) scale(1.0)" opacity="0">
+      <animate attributeName="opacity" values="0;0.9;0" dur="2.9s" begin="1.6s" repeatCount="indefinite" />
+    </use>
+    <use href="#dot-star" transform="translate(530, 25)" opacity="0">
+      <animate attributeName="opacity" values="0;1;0" dur="3.5s" begin="0.1s" repeatCount="indefinite" />
+    </use>
+    <use href="#star" transform="translate(610, 98) scale(1.2)" opacity="0">
+      <animate attributeName="opacity" values="0;1;0" dur="2.7s" begin="1.3s" repeatCount="indefinite" />
+    </use>
+    <use href="#dot-star" transform="translate(690, 32)" opacity="0">
+      <animate attributeName="opacity" values="0;0.8;0" dur="3.2s" begin="0.4s" repeatCount="indefinite" />
+    </use>
+    <use href="#star" transform="translate(735, 85) scale(0.8)" opacity="0">
+      <animate attributeName="opacity" values="0;1;0" dur="2.2s" begin="1.9s" repeatCount="indefinite" />
+    </use>
+    <use href="#dot-star" transform="translate(170, 65)" opacity="0">
+      <animate attributeName="opacity" values="0;0.9;0" dur="2.6s" begin="2.3s" repeatCount="indefinite" />
+    </use>
+    <use href="#star" transform="translate(630, 38) scale(0.7)" opacity="0">
+      <animate attributeName="opacity" values="0;1;0" dur="3.0s" begin="0.7s" repeatCount="indefinite" />
+    </use>
+  </g>
+
+  <text x="400" y="65" class="base-title">
+    <tspan class="ryuu-text" opacity="0"><animate attributeName="opacity" calcMode="discrete" values="0;1;0" keyTimes="0; 0.08; 0.85" dur="4.5s" repeatCount="indefinite" />R</tspan><tspan class="ryuu-text" opacity="0"><animate attributeName="opacity" calcMode="discrete" values="0;1;0" keyTimes="0; 0.16; 0.85" dur="4.5s" repeatCount="indefinite" />y</tspan><tspan class="ryuu-text" opacity="0"><animate attributeName="opacity" calcMode="discrete" values="0;1;0" keyTimes="0; 0.24; 0.85" dur="4.5s" repeatCount="indefinite" />u</tspan><tspan class="ryuu-text" opacity="0"><animate attributeName="opacity" calcMode="discrete" values="0;1;0" keyTimes="0; 0.32; 0.85" dur="4.5s" repeatCount="indefinite" />u</tspan><tspan class="js-text" opacity="0"><animate attributeName="opacity" calcMode="discrete" values="0;1;0" keyTimes="0; 0.40; 0.85" dur="4.5s" repeatCount="indefinite" />J</tspan><tspan class="js-text" opacity="0"><animate attributeName="opacity" calcMode="discrete" values="0;1;0" keyTimes="0; 0.48; 0.85" dur="4.5s" repeatCount="indefinite" />S</tspan>
+  </text>
+</svg>
