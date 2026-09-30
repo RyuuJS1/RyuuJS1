@@ -1,6 +1,6 @@
 <!-- INICIO DEL ENCABEZADO -->
 <p align="center">
-  <img src="./rectangulo.svg" width="100%" alt="Marco Tricolor" />
+  <img src="./Banner.svg" width="100%" alt="Marco Tricolor" />
 </p>
 <!-- FINAL DEL ENCABEZADO -->
 
