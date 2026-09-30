@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0b1329,25:d4af37,50:38bdf8,75:4ade80,100:0b1329&height=220&section=header&text=RyuuJS&fontSize=70&fontColor=ffffff&fontAlignY=38&fontFamily=Cinzel&animation=twinkle" width="100%" alt="RyuuJS Header" />
-</p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1329,25:d4af37,50:38bdf8,75:4ade80,100:0b1329&height=70&section=footer&animation=twinkle" width="100%" /><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1329,25:d4af37,50:38bdf8,75:4ade80,100:0b1329&height=110&text=RyuuJS&fontSize=65&fontColor=ffffff&fontAlignY=50&fontFamily=Cinzel&animation=twinkle" width="100%" alt="RyuuJS Header" /><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1329,25:d4af37,50:38bdf8,75:4ade80,100:0b1329&height=70&section=header&animation=twinkle" width="100%" /></p>
 
 <!-- SUBTÍTULO DE MÁQUINA DE ESCRIBIR (Azul Cielo & Dorado) -->
 <p align="center">
