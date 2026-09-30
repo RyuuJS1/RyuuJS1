@@ -4,12 +4,19 @@
 </p>
 <!-- FINAL DEL ENCABEZADO -->
 
-<!-- SUBTÍTULO DE MÁQUINA DE ESCRIBIR (Azul Cielo & Dorado) -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=38BDF8&center=true&vcenter=true&width=650&lines=Full+Stack+Developer+%7C+AI+Enthusiast;C%23+%7C+JavaScript+%7C+Python;Building+Efficient+%26+Elegant+Web+Tools;Navy+%26+Gold+Academic+Aesthetic" alt="Typing SVG" />
-  </a>
-</p>
+<!-- SECCIÓN SOBRE MÍ (Estética Académica/Naval) -->
+<br/>
+<div align="center">
+
+### 📜 Sobre Mí | About Me
+
+</div>
+
+<!-- "Cita" o Tagline de presentación con estilo de bloque de código elegante -->
+┌──────────────────────────────────────────────────────────────────────────┐
+│  "Creando soluciones elegantes en la intersección de la lógica y la estética"  │
+│  "Crafting elegant solutions at the intersection of logic & aesthetics"  │
+└──────────────────────────────────────────────────────────────────────────┘
 
 <!-- SEPARADOR ANIMADO -->
 <p align="center">
