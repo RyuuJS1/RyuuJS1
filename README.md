@@ -4,18 +4,41 @@
 </p>
 <!-- FINAL DEL ENCABEZADO -->
 
-<!-- SECCIÓN SOBRE MÍ (Estética Académica/Naval) -->
+<!-- INICIO SECCIÓN SOBRE MÍ -->
 <br/>
 <div align="center">
 
 ### 📜 Sobre Mí | About Me 📜
 
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="center">⚜️ Atributos del Desarrollador</h4>
+      <ul>
+        <li><b>Clase:</b> Full Stack Mage / AI Alchemist</li>
+        <li><b>Especialización:</b> Arquitectura Web & Automatización</li>
+        <li><b>Filosofía:</b> <i>"Clean Code & Elegant Interfaces"</i></li>
+        <li><b>Ubicación:</b> México 🇲🇽</li>
+        <li><b>Estado Actual:</b> ⚡ Forjando herramientas de alto rendimiento</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="center">⚡ Árbol de Habilidades (Skill Tree)</h4>
+      <p><b>JavaScript / TS</b><br/><code>[█████████████████░░] 85%</code></p>
+      <p><b>C# / .NET</b><br/><code>[███████████████░░░░] 75%</code></p>
+      <p><b>Python / IA</b><br/><code>[█████████████░░░░░░] 65%</code></p>
+    </td>
+  </tr>
+</table>
 
-<!-- SEPARADOR ANIMADO -->
+</div>
+<!-- FINAL SECCIÓN SOBRE MÍ -->
+
+<!-- INICIO DEL SEPARADOR ANIMADO -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
+<!-- FINAL DEL SEPARADOR ANIMADO -->
 
 <!-- INSIGNIAS / TECH STACK EN ESTILO MILITAR/ACADÉMICO -->
 <p align="center">
