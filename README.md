@@ -8,31 +8,39 @@
 <br/>
 <div align="center">
 
-### 📜 Sobre Mí | About Me 📜
+## 📜 Sobre Mí | About Me
 
-<details>
-<summary><b>🔍 01. ¿Quién soy? (Haz clic para desplegar)</b></summary>
-<br/>
-Desarrollador apasionado por construir herramientas donde la precisión lógica y el diseño elegante convergen. Me especializo en el ecosistema <b>Full Stack</b> con gran foco en <b>C#</b>, <b>JavaScript</b> y las posibilidades de la <b>Inteligencia Artificial</b>.
-</details>
+> *"Donde la precisión de la lógica se encuentra con la elegancia del diseño."*
+> *"Where logical precision meets design elegance."*
 
-<details>
-<summary><b>🛡️ 02. Filosofía de Código</b></summary>
-<br/>
-Abrazo los principios de <i>Clean Code</i> y la arquitectura modular. Creo firmemente que un buen código no solo debe funcionar rápidamente, sino también ser legible, elegante y fácil de mantener.
-</details>
+---
 
-<details>
-<summary><b>🎯 03. Misiones Actuales (Current Quests)</b></summary>
-<br/>
-<ul>
-  <li>🔭 Perfeccionando herramientas web eficientes y reactivas.</li>
-  <li>🧠 Explorando la integración de modelos de lenguaje (LLMs) en flujos de trabajo diarios.</li>
-  <li>⚜️ Manteniendo un estándar estético elevado en cada proyecto.</li>
-</ul>
-</details>
+### 👤 Presentación | Introduction
+* 🇲🇽 **Español:** ¡Hola! Soy **RyuuJS**, un desarrollador enfocado en crear soluciones software eficientes, elegantes y de alto rendimiento. Me apasiona la convergencia entre la arquitectura web moderna, el desarrollo con **C#**, **JavaScript** y **Python**, y la integración de Inteligencia Artificial.
+* 🇬🇧 **English:** Hi! I'm **RyuuJS**, a developer focused on building efficient, elegant, and high-performance software solutions. I'm passionate about the convergence of modern web architecture, **C#**, **JavaScript**, and **Python** development, alongside AI integration.
 
-</div>
+---
+
+### ⚡ Habilidades & Áreas de Enfoque | Skills & Focus
+* 💻 **Lenguajes Principales | Primary Languages:** `C# / .NET` • `JavaScript / TypeScript` • `Python`
+* 🛠️ **Desarrollo Web & Herramientas | Web Dev & Tools:** Frontend reactivo, APIs RESTful, Node.js, Git & GitHub Workflows.
+* 🧠 **Inteligencia Artificial & Automatización | AI & Automation:** Integración de LLMs, automatización de tareas y desarrollo de scripts eficientes.
+* 🛡️ **Filosofía de Ingeniería | Engineering Mindset:** *Clean Code*, arquitectura modular, código mantenible y optimización de rendimiento.
+
+---
+
+### 🎯 En Qué Estoy Trabajando | What I'm Up To
+* 🔭 **Proyectos Actuales | Active Projects:** Diseñando e implementando herramientas web ligeras y aplicaciones personalizadas.
+* 📚 **Aprendizaje Continuo | Continuous Learning:** Profundizando en patrones de diseño avanzados, modelos de IA y optimización de algoritmos.
+
+---
+
+### 🎮 Pasatiempos e Intereses | Hobbies & Interests
+* ⚔️ **Gaming:** Apasionado de los RPGs tácticos, la estrategia y los mundos inmersivos.
+* 📖 **Lectura & Investigación | Reading & Research:** Documentación técnica, arquitectura de software, filosofía y tecnología emergente.
+* 🎨 **Diseño Visual & UI:** Creación de interfaces estéticas, personalización de entornos de desarrollo (*rice/setuping*) y arte digital.
+* ☕ **Esenciales de Vida | Life Essentials:** Un buen café, listas de reproducción lo-fi/ambient y una terminal limpia y configurada.
+div/>
 <!-- FINAL SECCIÓN SOBRE MÍ -->
 
 <!-- INICIO DEL SEPARADOR ANIMADO -->
