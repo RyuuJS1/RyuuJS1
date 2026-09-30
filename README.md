@@ -8,15 +8,9 @@
 <br/>
 <div align="center">
 
-### 📜 Sobre Mí | About Me
+### 📜 Sobre Mí | About Me 📜
 
 </div>
-
-<!-- "Cita" o Tagline de presentación con estilo de bloque de código elegante -->
-┌──────────────────────────────────────────────────────────────────────────┐
-│  "Creando soluciones elegantes en la intersección de la lógica y la estética"  │
-│  "Crafting elegant solutions at the intersection of logic & aesthetics"  │
-└──────────────────────────────────────────────────────────────────────────┘
 
 <!-- SEPARADOR ANIMADO -->
 <p align="center">
