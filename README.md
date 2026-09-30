@@ -1,5 +1,5 @@
 <!-- INICIO DEL ENCABEZADO -->
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1329,25:d4af37,50:38bdf8,75:4ade80,100:0b1329&height=70&section=footer&animation=twinkle" width="100%" /><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pirata+One&weight=400&size=58&duration=3500&pause=1000&color=D4AF37&center=true&vcenter=true&width=500&height=85&lines=RyuuJS" alt="RyuuJS" /></a><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1329,25:4ade80,50:38bdf8,75:d4af37,100:0b1329&height=70&section=header&animation=twinkle" width="100%" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1329,25:d4af37,50:38bdf8,75:4ade80,100:0b1329&height=70&section=footer&animation=twinkle" width="100%" /><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&weight=400&size=60&duration=3500&pause=1000&color=D4AF37&center=true&vcenter=true&width=500&height=85&lines=RyuuJS" alt="RyuuJS" /></a><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1329,25:4ade80,50:38bdf8,75:d4af37,100:0b1329&height=70&section=header&animation=twinkle" width="100%" /></p>
 <!-- FINAL DEL ENCABEZADO -->
 
 <!-- SUBTÍTULO DE MÁQUINA DE ESCRIBIR (Azul Cielo & Dorado) -->
