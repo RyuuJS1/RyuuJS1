@@ -1,6 +1,6 @@
 <!-- BANNER CABECERA ANIMADO (Azul Marino + Dorado + Azul Cielo + Verde Claro) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=65:d4af37,85:38bdf8,100:4ade80&height=220&section=header&text=RyuuJS&fontSize=70&fontColor=ffffff&fontAlignY=38&animation=twinkle" width="100%" alt="RyuuJS Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1329,33:d4af37,66:38bdf8,100:4ade80&height=220&section=header&text=RyuuJS&fontSize=70&fontColor=ffffff&fontAlignY=38&fontFamily=Cinzel&animation=twinkle" width="100%" alt="RyuuJS Header" />
 </p>
 
 <!-- SUBTÍTULO DE MÁQUINA DE ESCRIBIR (Azul Cielo & Dorado) -->
