@@ -10,26 +10,27 @@
 
 ### 📜 Sobre Mí | About Me 📜
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4 align="center">⚜️ Atributos del Desarrollador</h4>
-      <ul>
-        <li><b>Clase:</b> Full Stack Mage / AI Alchemist</li>
-        <li><b>Especialización:</b> Arquitectura Web & Automatización</li>
-        <li><b>Filosofía:</b> <i>"Clean Code & Elegant Interfaces"</i></li>
-        <li><b>Ubicación:</b> México 🇲🇽</li>
-        <li><b>Estado Actual:</b> ⚡ Forjando herramientas de alto rendimiento</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4 align="center">⚡ Árbol de Habilidades (Skill Tree)</h4>
-      <p><b>JavaScript / TS</b><br/><code>[█████████████████░░] 85%</code></p>
-      <p><b>C# / .NET</b><br/><code>[███████████████░░░░] 75%</code></p>
-      <p><b>Python / IA</b><br/><code>[█████████████░░░░░░] 65%</code></p>
-    </td>
-  </tr>
-</table>
+<details>
+<summary><b>🔍 01. ¿Quién soy? (Haz clic para desplegar)</b></summary>
+<br/>
+Desarrollador apasionado por construir herramientas donde la precisión lógica y el diseño elegante convergen. Me especializo en el ecosistema <b>Full Stack</b> con gran foco en <b>C#</b>, <b>JavaScript</b> y las posibilidades de la <b>Inteligencia Artificial</b>.
+</details>
+
+<details>
+<summary><b>🛡️ 02. Filosofía de Código</b></summary>
+<br/>
+Abrazo los principios de <i>Clean Code</i> y la arquitectura modular. Creo firmemente que un buen código no solo debe funcionar rápidamente, sino también ser legible, elegante y fácil de mantener.
+</details>
+
+<details>
+<summary><b>🎯 03. Misiones Actuales (Current Quests)</b></summary>
+<br/>
+<ul>
+  <li>🔭 Perfeccionando herramientas web eficientes y reactivas.</li>
+  <li>🧠 Explorando la integración de modelos de lenguaje (LLMs) en flujos de trabajo diarios.</li>
+  <li>⚜️ Manteniendo un estándar estético elevado en cada proyecto.</li>
+</ul>
+</details>
 
 </div>
 <!-- FINAL SECCIÓN SOBRE MÍ -->
