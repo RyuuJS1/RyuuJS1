@@ -1,4 +1,6 @@
+<!-- INICIO DEL ENCABEZADO -->
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1329,25:d4af37,50:38bdf8,75:4ade80,100:0b1329&height=70&section=footer&animation=twinkle" width="100%" /><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1329,25:d4af37,50:38bdf8,75:4ade80,100:0b1329&height=120&text=RyuuJS&fontSize=70&fontColor=ffffff&fontAlignY=50&fontFamily=Montserrat&stroke=4ade80&strokeWidth=1&animation=twinkle" width="100%" alt="RyuuJS Header" /><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1329,25:4ade80,50:38bdf8,75:d4af37,100:0b1329&height=70&section=header&animation=twinkle" width="100%" /></p>
+<!-- FINAL DEL ENCABEZADO -->
 
 <!-- SUBTÍTULO DE MÁQUINA DE ESCRIBIR (Azul Cielo & Dorado) -->
 <p align="center">
