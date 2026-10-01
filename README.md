@@ -5,7 +5,6 @@
 <!-- FINAL DEL ENCABEZADO -->
 
 
-
 <!-- INICIO SECCIÓN HERRAMIENTAS -->
 <div align="center">
 
