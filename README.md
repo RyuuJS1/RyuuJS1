@@ -9,10 +9,10 @@
 <!-- INICIO SECCIÓN HERRAMIENTAS -->
 <div align="center">
 
-  <h3>💻 Tech Stack & Tools 🛠️</h3>
-  
+  <h2>💻 Tech Stack & Tools 🛠️</h2>
+
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,py,js,java,html,css,dotnet,nodejs,mysql,sqlite,mongodb,firebase,git,github,vscode,visualstudio,bash,linux,npm&perline=10&theme=dark" alt="Tech Stack RyuuJS" />
+    <img src="https://skillicons.dev/icons?i=cs,py,js,java,html,css,dotnet,nodejs,mysql,sqlite,mongodb,firebase,git,github,vscode,visualstudio,bash,linux,npm,powershell&perline=10&theme=dark" alt="Tech Stack RyuuJS" />
   </a>
 
 </div>
