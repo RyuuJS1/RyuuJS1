@@ -31,7 +31,7 @@
 <!-- INICIO SECCIÓN SOBRE MÍ -->
 <div align="center">
 
-## 📜 Presentación | Introduction
+## 📜 Presentación | Introduction 📜
 
 <table>
   <tr>
