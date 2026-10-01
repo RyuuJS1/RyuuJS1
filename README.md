@@ -5,7 +5,7 @@
 <!-- FINAL DEL ENCABEZADO -->
 
 <!-- INICIO SECCIÓN SOBRE MÍ -->
-<div align="left">
+<div align="center">
 
 ## 📜 Presentación | Introduction
 
