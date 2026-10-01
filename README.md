@@ -6,39 +6,29 @@
 
 ---
 
-<!-- INICIO DE LAS HERRAMIENTAS -->
-<div align="center">
-
-<!-- INICIO SECCIÓN HERRAMIENTAS RYUUJS -->
+<!-- INICIO SECCIÓN HERRAMIENTAS -->
 <div align="center">
 
   <!-- Lenguajes Principales -->
-  <h4>💻 Lenguajes | Languages</h4>
+  <h3>💻 Languages 💻</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,py,js,java,html,css&perline=6&theme=dark" alt="Lenguajes" />
   </a>
 
-  <br/><br/>
-
   <!-- Frameworks, Runtimes & Bases de Datos -->
-  <h4>⚙️ Frameworks & Bases de Datos | Frameworks & DBs</h4>
+  <h3>⚙️ Frameworks & DBs ⚙️</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=dotnet,nodejs,mysql,sqlite,mongodb,firebase&perline=6&theme=dark" alt="Backend y Bases de Datos" />
   </a>
 
-  <br/><br/>
-
   <!-- Herramientas, IDEs & Entornos -->
-  <h4>🛠️ Herramientas & Entorno | Tools & Environment</h4>
+  <h3>🛠️ Tools & Environment 🛠️</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,bash,linux,npm&perline=7&theme=dark" alt="Herramientas" />
   </a>
 
 </div>
-<!-- FINAL SECCIÓN HERRAMIENTAS RYUUJS -->
-
-</div>
-<!-- FINAL DE LAS HERRAMIENTAS -->
+<!-- FINAL SECCIÓN HERRAMIENTAS -->
 
 ---
 
