@@ -5,29 +5,6 @@
 <!-- FINAL DEL ENCABEZADO -->
 
 <!-- INICIO SECCIÓN SOBRE MÍ -->
-<div align="center">
-
-  <!-- BANNER PRINCIPAL (Reemplaza la URL por la de tu SVG guardado) -->
-  <img src="https://raw.githubusercontent.com/RyuuJS/RyuuJS/main/banner.svg" alt="RyuuJS Banner" width="100%" />
-
-  <br/><br/>
-
-  <br/>
-
-  <!-- BADGES DE TECNOLOGÍAS (Paleta Azul Marino #0B1329 + Dorado #D4AF37 / Verde #4ADE80) -->
-  [![C#](https://img.shields.io/badge/C%23-%230B1329?style=for-the-badge&logo=csharp&logoColor=%23D4AF37)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-  [![JavaScript](https://img.shields.io/badge/JavaScript-%230B1329?style=for-the-badge&logo=javascript&logoColor=%23D4AF37)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  [![Python](https://img.shields.io/badge/Python-%230B1329?style=for-the-badge&logo=python&logoColor=%234ADE80)](https://www.python.org/)
-  [![Java](https://img.shields.io/badge/Java-%230B1329?style=for-the-badge&logo=openjdk&logoColor=%23D4AF37)](https://www.java.com/)
-  [![SQL](https://img.shields.io/badge/SQL-%230B1329?style=for-the-badge&logo=postgresql&logoColor=%234ADE80)](https://www.postgresql.org/)
-  [![Git](https://img.shields.io/badge/Git-%230B1329?style=for-the-badge&logo=git&logoColor=%234ADE80)](https://git-scm.com/)
-
-  <br/>
-  ---
-
-</div>
-
-<!-- SECCIÓN BILINGÜE EN COLUMNAS PARALELAS -->
 <div align="left">
 
 ## 📜 Presentación | Introduction
