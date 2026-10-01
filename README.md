@@ -99,7 +99,7 @@
       <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="48" />
     </a>
     <!-- Discord -->
-    <a href="https://discord.com/users/TU_DISCORD_ID" target="_blank">
+    <a href="https://discord.com/users/ryuujs" target="_blank">
       <img src="https://skillicons.dev/icons?i=discord" alt="Discord" height="48" />
     </a>
     <!-- X / Twitter -->
