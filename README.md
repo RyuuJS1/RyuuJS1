@@ -5,42 +5,93 @@
 <!-- FINAL DEL ENCABEZADO -->
 
 <!-- INICIO SECCIÓN SOBRE MÍ -->
-<br/>
 <div align="center">
 
-## 📜 Sobre Mí | About Me
+  <!-- BANNER PRINCIPAL (Reemplaza la URL por la de tu SVG guardado) -->
+  <img src="https://raw.githubusercontent.com/RyuuJS/RyuuJS/main/banner.svg" alt="RyuuJS Banner" width="100%" />
 
-> *"Donde la precisión de la lógica se encuentra con la elegancia del diseño."*
-> *"Where logical precision meets design elegance."*
+  <br/><br/>
+
+  <br/>
+
+  <!-- BADGES DE TECNOLOGÍAS (Paleta Azul Marino #0B1329 + Dorado #D4AF37 / Verde #4ADE80) -->
+  [![C#](https://img.shields.io/badge/C%23-%230B1329?style=for-the-badge&logo=csharp&logoColor=%23D4AF37)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+  [![JavaScript](https://img.shields.io/badge/JavaScript-%230B1329?style=for-the-badge&logo=javascript&logoColor=%23D4AF37)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  [![Python](https://img.shields.io/badge/Python-%230B1329?style=for-the-badge&logo=python&logoColor=%234ADE80)](https://www.python.org/)
+  [![Java](https://img.shields.io/badge/Java-%230B1329?style=for-the-badge&logo=openjdk&logoColor=%23D4AF37)](https://www.java.com/)
+  [![SQL](https://img.shields.io/badge/SQL-%230B1329?style=for-the-badge&logo=postgresql&logoColor=%234ADE80)](https://www.postgresql.org/)
+  [![Git](https://img.shields.io/badge/Git-%230B1329?style=for-the-badge&logo=git&logoColor=%234ADE80)](https://git-scm.com/)
+
+  <br/>
+  ---
+
+</div>
+
+<!-- SECCIÓN BILINGÜE EN COLUMNAS PARALELAS -->
+<div align="left">
+
+## 📜 Presentación | Introduction
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🇲🇽 Español</h3>
+      <p>¡Hola! Soy <b>RyuuJS</b>, desarrollador enfocado en crear soluciones software eficientes, elegantes y de alto rendimiento.</p>
+      <p>Me apasiona la convergencia entre la arquitectura web moderna, el desarrollo con <b>C#</b>, <b>JavaScript</b> y <b>Python</b>, y la integración de Inteligencia Artificial.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🇬🇧 English</h3>
+      <p>Hi! I'm <b>RyuuJS</b>, a developer focused on building efficient, elegant, and high-performance software solutions.</p>
+      <p>I'm passionate about the convergence of modern web architecture, <b>C#</b>, <b>JavaScript</b>, and <b>Python</b> development, alongside AI integration.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 👤 Presentación | Introduction
-* 🇲🇽 **Español:** ¡Hola! Soy **RyuuJS**, un desarrollador enfocado en crear soluciones software eficientes, elegantes y de alto rendimiento. Me apasiona la convergencia entre la arquitectura web moderna, el desarrollo con **C#**, **JavaScript** y **Python**, y la integración de Inteligencia Artificial.
-* 🇬🇧 **English:** Hi! I'm **RyuuJS**, a developer focused on building efficient, elegant, and high-performance software solutions. I'm passionate about the convergence of modern web architecture, **C#**, **JavaScript**, and **Python** development, alongside AI integration.
+## ⚡ Habilidades & Enfoque | Skills & Focus
+
+- 💻 **Lenguajes Principales:** `C# / .NET` • `JavaScript / TypeScript` • `Python` • `Java` • `SQL`
+- 🛠️ **Desarrollo Web & Herramientas:** Frontend reactivo, APIs RESTful, Node.js, Git Workflows.
+- 🧠 **IA & Automatización:** Integración de LLMs, automatización de tareas y desarrollo de scripts eficientes.
+- 🛡️ **Filosofía de Ingeniería:** *Clean Code*, arquitectura modular, código mantenible y optimización.
 
 ---
 
-### ⚡ Habilidades & Áreas de Enfoque | Skills & Focus
-* 💻 **Lenguajes Principales | Primary Languages:** `C# / .NET` • `JavaScript / TypeScript` • `Python`
-* 🛠️ **Desarrollo Web & Herramientas | Web Dev & Tools:** Frontend reactivo, APIs RESTful, Node.js, Git & GitHub Workflows.
-* 🧠 **Inteligencia Artificial & Automatización | AI & Automation:** Integración de LLMs, automatización de tareas y desarrollo de scripts eficientes.
-* 🛡️ **Filosofía de Ingeniería | Engineering Mindset:** *Clean Code*, arquitectura modular, código mantenible y optimización de rendimiento.
+## 🎯 Proyectos & Pasatiempos | Projects & Interests
 
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔭 En Qué Estoy Trabajando</h3>
+      <ul>
+        <li><b>Proyectos Actuales:</b> Diseñando herramientas web ligeras y aplicaciones personalizadas.</li>
+        <li><b>Aprendizaje Continuo:</b> Patrones de diseño avanzados, modelos de IA y algoritmos.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎮 Pasatiempos e Intereses</h3>
+      <ul>
+        <li>⚔️ <b>Gaming:</b> RPGs tácticos, estrategia y mundos inmersivos.</li>
+        <li>📖 <b>Investigación:</b> Arquitectura de software, filosofía y tecnología.</li>
+        <li>🎨 <b>Diseño & UI:</b> Interfaces estéticas y setups minimalistas.</li>
+        <li>☕ <b>Esenciales:</b> Café de especialidad, lo-fi y una terminal limpia.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-### 🎯 En Qué Estoy Trabajando | What I'm Up To
-* 🔭 **Proyectos Actuales | Active Projects:** Diseñando e implementando herramientas web ligeras y aplicaciones personalizadas.
-* 📚 **Aprendizaje Continuo | Continuous Learning:** Profundizando en patrones de diseño avanzados, modelos de IA y optimización de algoritmos.
+</div>
 
----
+<!-- TARJETAS DE ESTADÍSTICAS ANIMADAS (Alineadas con la paleta) -->
+<div align="center">
 
-### 🎮 Pasatiempos e Intereses | Hobbies & Interests
-* ⚔️ **Gaming:** Apasionado de los RPGs tácticos, la estrategia y los mundos inmersivos.
-* 📖 **Lectura & Investigación | Reading & Research:** Documentación técnica, arquitectura de software, filosofía y tecnología emergente.
-* 🎨 **Diseño Visual & UI:** Creación de interfaces estéticas, personalización de entornos de desarrollo (*rice/setuping*) y arte digital.
-* ☕ **Esenciales de Vida | Life Essentials:** Un buen café, listas de reproducción lo-fi/ambient y una terminal limpia y configurada.
-div/>
+  <br/>
+
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RyuuJS1&show_icons=true&theme=nightowl&bg_color=0B1329&title_color=D4AF37&text_color=ffffff&icon_color=4ADE80&border_color=D4AF37" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyuuJS1&layout=compact&theme=nightowl&bg_color=0B1329&title_color=D4AF37&text_color=ffffff&icon_color=4ADE80&border_color=D4AF37" />
+
+</div>
 <!-- FINAL SECCIÓN SOBRE MÍ -->
 
 <!-- INICIO DEL SEPARADOR ANIMADO -->
