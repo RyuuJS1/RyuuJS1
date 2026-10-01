@@ -84,29 +84,6 @@
 
 
 
-<!-- INICIO SECCIÓN TROFEOS Y MÉTRICAS -->
-<div align="center">
-
-  <h3>📜 Logros de Repositorio | Github Achievements 🏆</h3>
-
-  <!-- TROFEOS DINÁMICOS CON PALETA OSCURA Y DORADA -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=RyuuJS1&theme=darkhub&column=6&margin-w=8&margin-h=8&no-bg=false&no-frame=false" alt="Trofeos RyuuJS" width="95%" />
-  </a>
-
-  <br/><br/>
-
-  <!-- MÉTRICAS EN LÍNEA ÚNICA COMPACTA -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=RyuuJS1&show_icons=true&count_private=true&bg_color=0B1329&title_color=D4AF37&text_color=FFFFFF&icon_color=38BDF8&border_color=D4AF37&border_radius=8" alt="RyuuJS Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyuuJS1&layout=compact&bg_color=0B1329&title_color=D4AF37&text_color=FFFFFF&icon_color=38BDF8&border_color=D4AF37&langs_count=6&border_radius=8" alt="Top Languages" />
-  </a>
-
-</div>
-<!-- FINAL SECCIÓN TROFEOS Y MÉTRICAS -->
-
 <!-- SECCIÓN CONÉCTATE CONMIGO -->
 <div align="center">
   <h3>🤝 Connect With Me</h3>
@@ -123,7 +100,10 @@
   </p>
 </div>
 
-<!-- LÍNEA SEPARADORA FINAL -->
+
+
+<!-- INICIO DEL SEPARADOR ANIMADO -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
+<!-- FINAL DEL SEPARADOR ANIMADO -->
