@@ -84,28 +84,28 @@
 
 
 
-<!-- INICIO ESTADÍSTICAS Y MÉTRICAS RENOVADAS -->
+<!-- INICIO SECCIÓN TROFEOS Y MÉTRICAS -->
 <div align="center">
 
-  <h3>📊 Actividad & Rendimiento | Performance Metrics 📈</h3>
+  <h3>📜 Logros de Repositorio | Github Achievements 🏆</h3>
 
-  <!-- GRÁFICO PANORÁMICO DE ACTIVIDAD EN OLA -->
-  <a href="https://github.com/Ashutosh00712/github-readme-activity-graph">
-    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=RyuuJS1&bg_color=0B1329&color=D4AF37&line=38BDF8&point=4ADE80&area=true&hide_border=false&border=D4AF37&border_radius=8" alt="Gráfico de Actividad RyuuJS" />
+  <!-- TROFEOS DINÁMICOS CON PALETA OSCURA Y DORADA -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=RyuuJS1&theme=darkhub&column=6&margin-w=8&margin-h=8&no-bg=false&no-frame=false" alt="Trofeos RyuuJS" width="95%" />
   </a>
 
   <br/><br/>
 
-  <!-- TARJETAS SECUNDARIAS COMPACTAS (Lado a lado) -->
+  <!-- MÉTRICAS EN LÍNEA ÚNICA COMPACTA -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=RyuuJS1&show_icons=true&count_private=true&bg_color=0B1329&title_color=D4AF37&text_color=FFFFFF&icon_color=38BDF8&border_color=D4AF37&border_radius=8" alt="RyuuJS Stats" />
+  </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyuuJS1&layout=compact&bg_color=0B1329&title_color=D4AF37&text_color=FFFFFF&icon_color=38BDF8&border_color=D4AF37&langs_count=6&border_radius=8" alt="Top Languages" />
   </a>
-  <a href="https://github.com/dentalk/github-readme-streak-stats">
-    <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=RyuuJS1&background=0B1329&border=D4AF37&stroke=D4AF37&ring=38BDF8&fire=4ADE80&currStreakNum=D4AF37&sideNums=FFFFFF&sideTitle=38BDF8&dates=86EFAC&border_radius=8" alt="GitHub Streak" />
-  </a>
 
 </div>
-<!-- FINAL ESTADÍSTICAS Y MÉTRICAS RENOVADAS -->
+<!-- FINAL SECCIÓN TROFEOS Y MÉTRICAS -->
 
 <!-- SECCIÓN CONÉCTATE CONMIGO -->
 <div align="center">
