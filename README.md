@@ -86,19 +86,30 @@
 
 <!-- SECCIÓN CONÉCTATE CONMIGO -->
 <div align="center">
-  <h3>🤝 Connect With Me</h3>
+
+  <h3>🤝 Conéctate Conmigo | Connect With Me ✉️</h3>
+
   <p align="center">
+    <!-- Correo / Email -->
+    <a href="mailto:ryuuksakai2007@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-0B1329?style=for-the-badge&logo=gmail&logoColor=4ADE80" alt="Email" />
+    </a>
+    <!-- LinkedIn -->
     <a href="https://www.linkedin.com/in/tu-usuario" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0B1329?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" />
     </a>
-    <a href="https://twitter.com/tu-usuario" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-0B1329?style=for-the-badge&logo=x&logoColor=38BDF8" alt="Twitter" />
+    <!-- Discord -->
+    <a href="https://discord.com" target="_blank">
+      <img src="https://img.shields.io/badge/Discord-0B1329?style=for-the-badge&logo=discord&logoColor=D4AF37" alt="Discord" />
     </a>
-    <a href="https://www.instagram.com/tu-usuario" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-0B1329?style=for-the-badge&logo=instagram&logoColor=4ADE80" alt="Instagram" />
+    <!-- X / Twitter -->
+    <a href="https://x.com/tu-usuario" target="_blank">
+      <img src="https://img.shields.io/badge/X-0B1329?style=for-the-badge&logo=x&logoColor=38BDF8" alt="X" />
     </a>
   </p>
+
 </div>
+<!-- FINAL SECCIÓN CONÉCTATE CONMIGO -->
 
 
 
