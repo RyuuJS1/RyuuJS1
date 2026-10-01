@@ -11,14 +11,14 @@
 
   <!-- Opción 1: Todos tus íconos principales en Modo Oscuro (5 por línea) -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,py,java,postgres,html,css,git,github&perline=5&theme=dark" alt="Habilidades RyuuJS" />
+    <img src="https://skillicons.dev/icons?i=autocad,aws,bash,blender,cs,css,debian,discord,bots,discordjs,dotnet,eclipse,firebase,git,github,gmail,html,instagram,java,js,linkedin,linux,mongodb,mysql,nodejs,notion,npm,powershell,pycharm,py,r,redhat,robloxstudio,sqlite,twitter,ubuntu,unity,visualstudio,vscode,windows,&perline=5&theme=dark" alt="Habilidades RyuuJS" />
   </a>
 
   <br/><br/>
 
   <!-- Opción 2: Fila en Modo Claro (3 por línea) -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,azure&perline=3&theme=light" alt="Cloud Skills" />
+    <img src="https://skillicons.dev/icons?i=autocad,aws,bash,blender,cs,css,debian,discord,bots,discordjs,dotnet,eclipse,firebase,git,github,gmail,html,instagram,java,js,linkedin,linux,mongodb,mysql,nodejs,notion,npm,powershell,pycharm,py,r,redhat,robloxstudio,sqlite,twitter,ubuntu,unity,visualstudio,vscode,windows,&perline=5&theme=light" alt="Habilidades RyuuJS" />
   </a>
 
 </div>
