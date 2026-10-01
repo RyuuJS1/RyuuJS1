@@ -26,15 +26,6 @@
 
 ---
 
-## ⚡ Habilidades & Enfoque | Skills & Focus
-
-- 💻 **Lenguajes Principales:** `C# / .NET` • `JavaScript / TypeScript` • `Python` • `Java` • `SQL`
-- 🛠️ **Desarrollo Web & Herramientas:** Frontend reactivo, APIs RESTful, Node.js, Git Workflows.
-- 🧠 **IA & Automatización:** Integración de LLMs, automatización de tareas y desarrollo de scripts eficientes.
-- 🛡️ **Filosofía de Ingeniería:** *Clean Code*, arquitectura modular, código mantenible y optimización.
-
----
-
 ## 🎯 Proyectos & Pasatiempos | Projects & Interests
 
 <table>
