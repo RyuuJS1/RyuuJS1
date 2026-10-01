@@ -76,22 +76,15 @@
 </div>
 <!-- FINAL SECCIÓN SOBRE MÍ -->
 
+
+
 <!-- INICIO DEL SEPARADOR ANIMADO -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 <!-- FINAL DEL SEPARADOR ANIMADO -->
 
-<!-- INSIGNIAS / TECH STACK EN ESTILO MILITAR/ACADÉMICO -->
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-0B1329?style=for-the-badge&logo=csharp&logoColor=D4AF37" />
-  <img src="https://img.shields.io/badge/JavaScript-0B1329?style=for-the-badge&logo=javascript&logoColor=4ADE80" />
-  <img src="https://img.shields.io/badge/Python-0B1329?style=for-the-badge&logo=python&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/AI_%26_ML-0B1329?style=for-the-badge&logo=openai&logoColor=D4AF37" />
-  <img src="https://img.shields.io/badge/GitHub-0B1329?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-</p>
 
-<br>
 
 <!--- ESTADÍSTICAS Y MÉTRICAS CON PALETA AMITY IA -->
 <div align="center">
