@@ -1,8 +1,22 @@
 <!-- INICIO DEL ENCABEZADO -->
+
 <p align="center">
   <img src="./Banner.svg" width="100%" alt="Marco Tricolor" />
 </p>
+
 <!-- FINAL DEL ENCABEZADO -->
+
+<!-- INICIO DE LAS HERRAMIENTAS -->
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+
+<!-- FINAL DE LAS HERRAMIENTAS -->
 
 <!-- INICIO SECCIÓN SOBRE MÍ -->
 <div align="center">
