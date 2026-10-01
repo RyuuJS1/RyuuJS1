@@ -1,20 +1,30 @@
 <!-- INICIO DEL ENCABEZADO -->
-
 <p align="center">
   <img src="./Banner.svg" width="100%" alt="Marco Tricolor" />
 </p>
-
 <!-- FINAL DEL ENCABEZADO -->
 
+---
+
 <!-- INICIO DE LAS HERRAMIENTAS -->
+<div align="center">
 
-<p align="center">
+  <!-- Opción 1: Todos tus íconos principales en Modo Oscuro (5 por línea) -->
   <a href="https://skillicons.dev">
-    [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,py,java,postgres,html,css,git,github&perline=5&theme=dark" alt="Habilidades RyuuJS" />
   </a>
-</p>
 
+  <br/><br/>
+
+  <!-- Opción 2: Fila en Modo Claro (3 por línea) -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,azure&perline=3&theme=light" alt="Cloud Skills" />
+  </a>
+
+</div>
 <!-- FINAL DE LAS HERRAMIENTAS -->
+
+---
 
 <!-- INICIO SECCIÓN SOBRE MÍ -->
 <div align="center">
