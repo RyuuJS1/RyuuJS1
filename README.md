@@ -74,16 +74,6 @@
 </table>
 
 </div>
-
-<!-- TARJETAS DE ESTADÍSTICAS ANIMADAS (Alineadas con la paleta) -->
-<div align="center">
-
-  <br/>
-
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RyuuJS1&show_icons=true&theme=nightowl&bg_color=0B1329&title_color=D4AF37&text_color=ffffff&icon_color=4ADE80&border_color=D4AF37" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyuuJS1&layout=compact&theme=nightowl&bg_color=0B1329&title_color=D4AF37&text_color=ffffff&icon_color=4ADE80&border_color=D4AF37" />
-
-</div>
 <!-- FINAL SECCIÓN SOBRE MÍ -->
 
 <!-- INICIO DEL SEPARADOR ANIMADO -->
