@@ -48,8 +48,6 @@
   </tr>
 </table>
 
----
-
 <h3>🎯 Proyectos & Pasatiempos | Projects & Interests 🎯</h3>
 
 <table>
