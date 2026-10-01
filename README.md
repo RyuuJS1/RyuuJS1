@@ -9,17 +9,33 @@
 <!-- INICIO DE LAS HERRAMIENTAS -->
 <div align="center">
 
-  <!-- Opción 1: Todos tus íconos principales en Modo Oscuro (5 por línea) -->
+<!-- INICIO SECCIÓN HERRAMIENTAS RYUUJS -->
+<div align="center">
+
+  <!-- Lenguajes Principales -->
+  <h4>💻 Lenguajes | Languages</h4>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=autocad,aws,bash,blender,cs,css,debian,discord,bots,discordjs,dotnet,eclipse,firebase,git,github,gmail,html,instagram,java,js,linkedin,linux,mongodb,mysql,nodejs,notion,npm,powershell,pycharm,py,r,redhat,robloxstudio,sqlite,twitter,ubuntu,unity,visualstudio,vscode,windows,&perline=5&theme=dark" alt="Habilidades RyuuJS" />
+    <img src="https://skillicons.dev/icons?i=cs,py,js,java,html,css&perline=6&theme=dark" alt="Lenguajes" />
   </a>
 
   <br/><br/>
 
-  <!-- Opción 2: Fila en Modo Claro (3 por línea) -->
+  <!-- Frameworks, Runtimes & Bases de Datos -->
+  <h4>⚙️ Frameworks & Bases de Datos | Frameworks & DBs</h4>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=autocad,aws,bash,blender,cs,css,debian,discord,bots,discordjs,dotnet,eclipse,firebase,git,github,gmail,html,instagram,java,js,linkedin,linux,mongodb,mysql,nodejs,notion,npm,powershell,pycharm,py,r,redhat,robloxstudio,sqlite,twitter,ubuntu,unity,visualstudio,vscode,windows,&perline=5&theme=light" alt="Habilidades RyuuJS" />
+    <img src="https://skillicons.dev/icons?i=dotnet,nodejs,mysql,sqlite,mongodb,firebase&perline=6&theme=dark" alt="Backend y Bases de Datos" />
   </a>
+
+  <br/><br/>
+
+  <!-- Herramientas, IDEs & Entornos -->
+  <h4>🛠️ Herramientas & Entorno | Tools & Environment</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,bash,linux,npm&perline=7&theme=dark" alt="Herramientas" />
+  </a>
+
+</div>
+<!-- FINAL SECCIÓN HERRAMIENTAS RYUUJS -->
 
 </div>
 <!-- FINAL DE LAS HERRAMIENTAS -->
