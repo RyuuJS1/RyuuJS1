@@ -84,26 +84,28 @@
 
 
 
-<!--- ESTADÍSTICAS Y MÉTRICAS CON PALETA AMITY IA -->
+<!-- INICIO ESTADÍSTICAS Y MÉTRICAS -->
 <div align="center">
-  <table align="center" border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td width="50%" align="center">
-        <!-- Tarjeta de Estadísticas: Fondo Azul Marino, Título Dorado, Iconos Azul Cielo, Borde Dorado -->
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=RyuuJS1&show_icons=true&count_private=true&bg_color=0b1329&title_color=d4af37&text_color=ffffff&icon_color=38bdf8&border_color=d4af37&border_radius=8" />
-        <br><br>
-        <!-- Racha de Actividad con fuego Verde Claro y anillos Azul Cielo -->
-        <img title="Streak stats" alt="Streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=RyuuJS1&background=0B1329&border=D4AF37&stroke=D4AF37&ring=38BDF8&fire=4ADE80&currStreakNum=D4AF37&sideNums=FFFFFF&sideTitle=38BDF8&dates=86EFAC&hide_border=false" />
-      </td>
-      <td width="50%" align="center">
-        <!-- Lenguajes más usados -->
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyuuJS1&layout=compact&bg_color=0b1329&title_color=d4af37&text_color=ffffff&icon_color=38bdf8&border_color=d4af37&langs_count=8&border_radius=8" />
-      </td>
-    </tr>
-  </table>
-</div>
 
-<br>
+  <h3>📊 Estadísticas de GitHub | GitHub Metrics 📈</h3>
+
+  <!-- NIVEL 1: Estadísticas Generales + Lenguajes (Lado a lado) -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=RyuuJS1&show_icons=true&count_private=true&bg_color=0B1329&title_color=D4AF37&text_color=FFFFFF&icon_color=38BDF8&border_color=D4AF37&border_radius=8" alt="RyuuJS Stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyuuJS1&layout=compact&bg_color=0B1329&title_color=D4AF37&text_color=FFFFFF&icon_color=38BDF8&border_color=D4AF37&langs_count=8&border_radius=8" alt="Top Languages" />
+  </a>
+
+  <br/><br/>
+
+  <!-- NIVEL 2: Racha de Actividades (Centrada abajo) -->
+  <a href="https://github.com/dentalk/github-readme-streak-stats">
+    <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=RyuuJS1&background=0B1329&border=D4AF37&stroke=D4AF37&ring=38BDF8&fire=4ADE80&currStreakNum=D4AF37&sideNums=FFFFFF&sideTitle=38BDF8&dates=86EFAC&border_radius=8" alt="GitHub Streak" />
+  </a>
+
+</div>
+<!-- FINAL ESTADÍSTICAS Y MÉTRICAS -->
 
 <!-- SECCIÓN CONÉCTATE CONMIGO -->
 <div align="center">
