@@ -9,28 +9,16 @@
 <!-- INICIO SECCIÓN HERRAMIENTAS -->
 <div align="center">
 
-  <!-- Lenguajes Principales -->
-  <h3>💻 Languages 💻</h3>
+  <h3>💻 Tech Stack & Tools 🛠️</h3>
+  
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,py,js,java,html,css&perline=6&theme=dark" alt="Lenguajes" />
-  </a>
-
-  <!-- Frameworks, Runtimes & Bases de Datos -->
-  <h3>⚙️ Frameworks & DBs ⚙️</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,nodejs,mysql,sqlite,mongodb,firebase&perline=6&theme=dark" alt="Backend y Bases de Datos" />
-  </a>
-
-  <!-- Herramientas, IDEs & Entornos -->
-  <h3>🛠️ Tools & Environment 🛠️</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,bash,linux,npm&perline=7&theme=dark" alt="Herramientas" />
+    <img src="https://skillicons.dev/icons?i=cs,py,js,java,html,css,dotnet,nodejs,mysql,sqlite,mongodb,firebase,git,github,vscode,visualstudio,bash,linux,npm&perline=10&theme=dark" alt="Tech Stack RyuuJS" />
   </a>
 
 </div>
 <!-- FINAL SECCIÓN HERRAMIENTAS -->
 
----
+
 
 <!-- INICIO SECCIÓN SOBRE MÍ -->
 <div align="center">
