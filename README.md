@@ -78,23 +78,23 @@
 
 
 
-<!-- INICIO SECCIÓN ESTADÍSTICAS Y LENGUAJES -->
+<!-- INICIO SECCIÓN ESTADÍSTICAS PERSONALIZADAS -->
 <div align="center">
 
   <h3>📊 Most Used Languages & Activity 📈</h3>
 
-  <!-- Lenguajes Más Usados -->
+  <!-- Lenguajes con degradado Azul Marino -> Azul Oscuro y bordes suavemente redondeados -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyuuJS1&layout=compact&bg_color=0B1329&title_color=D4AF37&text_color=FFFFFF&icon_color=38BDF8&border_color=D4AF37&langs_count=8&border_radius=8" alt="Top Languages RyuuJS" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyuuJS1&layout=compact&bg_color=0B1329,1A2642&title_color=D4AF37&text_color=FFFFFF&icon_color=38BDF8&border_color=D4AF37&langs_count=6&border_radius=12&custom_title=Languages%20%26%20Stack" alt="Top Languages RyuuJS" />
   </a>
   &nbsp;
-  <!-- Estadísticas de GitHub -->
+  <!-- Métricas con el mismo estilo de degradado y título personalizado -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=RyuuJS1&show_icons=true&count_private=true&bg_color=0B1329&title_color=D4AF37&text_color=FFFFFF&icon_color=38BDF8&border_color=D4AF37&border_radius=8" alt="GitHub Stats RyuuJS" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=RyuuJS1&show_icons=true&count_private=true&bg_color=0B1329,1A2642&title_color=D4AF37&text_color=FFFFFF&icon_color=38BDF8&border_color=D4AF37&border_radius=12&custom_title=RyuuJS%20Stats" alt="GitHub Stats RyuuJS" />
   </a>
 
 </div>
-<!-- FINAL SECCIÓN ESTADÍSTICAS Y LENGUAJES -->
+<!-- FINAL SECCIÓN ESTADÍSTICAS PERSONALIZADAS -->
 
 
 
