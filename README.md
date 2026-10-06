@@ -36,14 +36,14 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>💻 Technical Focus</h3>
-      <p>Desarrollador enfocado en crear soluciones de software eficientes, elegantes y de alto rendimiento.</p>
-      <p>Especializado en la convergencia entre la arquitectura web moderna, el desarrollo backend con <b>C#</b>, <b>JavaScript</b> y <b>Python</b>, y la integración de Inteligencia Artificial.</p>
+      <h3>💻 Frontend (The Public Profile)</h3>
+      <p><b>Full Stack Developer</b> dedicated to engineering efficient, elegant, and high-performance software solutions.</p>
+      <p>Specialized in the convergence of modern web architecture, backend development with <b>C#</b>, <b>Python</b>, <b>Java</b>, and <b>JavaScript</b>, robust database management (SQL & NoSQL), and cutting-edge <b>AI integration</b>.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>✨ Mindset & Background</h3>
-      <p>Software Engineering student driven by continuous learning, aesthetic UI design, and clean code crafting.</p>
-      <p>Passionate about turning complex problems into minimal, intuitive tools while exploring AI models and system architecture.</p>
+      <h3>⚙️ Backend (Under The Hood)</h3>
+      <p>Born in Mexico City (2007). My coding journey began in middle school, building <b>Discord bots</b> with JavaScript and Node.js.</p>
+      <p>Later expanded into Python, MySQL, and engineered a complete <b>Inventory System with C# and .NET</b> during my social service. Continuously learning and building beyond academic boundaries.</p>
     </td>
   </tr>
 </table>
@@ -55,17 +55,17 @@
     <td width="50%" valign="top">
       <h3>🔭 What I'm Building</h3>
       <ul>
-        <li><b>Current Projects:</b> Designing lightweight web tools and custom applications.</li>
-        <li><b>Active Learning:</b> Advanced design patterns, AI models, and algorithms.</li>
+        <li><b>Current Projects:</b> Designing lightweight web tools, APIs, and custom applications.</li>
+        <li><b>Continuous Growth:</b> Advanced software design patterns, AI integration, and scalable algorithms.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3>🎮 Passions & Hobbies</h3>
       <ul>
-        <li>⚔️ <b>Gaming:</b> Tactical RPGs, strategy, and immersive worlds.</li>
-        <li>📖 <b>Research:</b> Software architecture, philosophy, and tech trends.</li>
-        <li>🎨 <b>Design & UI:</b> Aesthetic interfaces and minimalist setups.</li>
-        <li>☕ <b>Essentials:</b> Specialty coffee, lo-fi beats, and a clean terminal.</li>
+        <li>⚔️ <b>Gaming:</b> Sandbox, shooters, and deep immersive worlds.</li>
+        <li>📖 <b>Research:</b> Software architecture, philosophy, critical thinking, tech trends, AI & DB design.</li>
+        <li>🎨 <b>Design & UI:</b> Aesthetic, minimalist, fantasy, and vintage interface concepts.</li>
+        <li>☕ <b>Essentials:</b> Cold frappés, classical music, and structured organization.</li>
       </ul>
     </td>
   </tr>
