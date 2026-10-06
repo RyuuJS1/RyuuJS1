@@ -56,9 +56,9 @@
       <h3>💡 Code Philosophy</h3>
       <ul>
         <li>📖 <b>Clean Architecture:</b> Writing readable, maintainable, and scalable code.</li>
-        <li>⚔️ <b>Problem Solving:</b> Breaking down complex logic into efficient, intuitive solutions.</li>
+        <li>🧠 <b>Problem Solving:</b> Breaking down complex logic into efficient, intuitive solutions.</li>
         <li>🎨 <b>UI Aesthetics:</b> Crafting clean, minimalist, and user-friendly visual interfaces.</li>
-        <li>☕ <b>Adaptability:</b> Fast learner with strong technical intuition across modern tech stacks.</li>
+        <li>⚡ <b>Adaptability:</b> Fast learner with strong technical intuition across modern tech stacks.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
