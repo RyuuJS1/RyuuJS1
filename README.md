@@ -36,14 +36,14 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>💻 Frontend (The Public Profile)</h3>
+      <h3> Frontend</h3>
       <p><b>Full Stack Developer</b> dedicated to engineering efficient, elegant, and high-performance software solutions.</p>
       <p>Specialized in the convergence of modern web architecture, backend development with <b>C#</b>, <b>Python</b>, <b>Java</b>, and <b>JavaScript</b>, robust database management (SQL & NoSQL), and cutting-edge <b>AI integration</b>.</p>
     </td>
     <td width="50%" valign="top">
       <h3>⚙️ Backend (Under The Hood)</h3>
       <p>Born in Mexico City (2007). My coding journey began in middle school, building <b>Discord bots</b> with JavaScript and Node.js.</p>
-      <p>Later expanded into Python, MySQL, and engineered a complete <b>Inventory System with C# and .NET</b> during my social service. Continuously learning and building beyond academic boundaries.</p>
+      <p>Later expanded into Python, MySQL, and engineered a complete <b>Inventory System with C# and .NET</b> during my social service. Continuously learning and building.</p>
     </td>
   </tr>
 </table>
