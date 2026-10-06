@@ -84,6 +84,24 @@
 </p>
 <!-- FINAL DEL SEPARADOR ANIMADO -->
 
+<!-- INICIO SECCIÓN ESTADÍSTICAS Y LENGUAJES -->
+<div align="center">
+
+  <h3>📊 Most Used Languages & Activity 📈</h3>
+
+  <!-- Lenguajes Más Usados -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyuuJS1&layout=compact&bg_color=0B1329&title_color=D4AF37&text_color=FFFFFF&icon_color=38BDF8&border_color=D4AF37&langs_count=8&border_radius=8" alt="Top Languages RyuuJS" />
+  </a>
+  &nbsp;
+  <!-- Estadísticas de GitHub -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=RyuuJS1&show_icons=true&count_private=true&bg_color=0B1329&title_color=D4AF37&text_color=FFFFFF&icon_color=38BDF8&border_color=D4AF37&border_radius=8" alt="GitHub Stats RyuuJS" />
+  </a>
+
+</div>
+<!-- FINAL SECCIÓN ESTADÍSTICAS Y LENGUAJES -->
+
 
 
 <!-- INICIO SECCIÓN CONÉCTATE CONMIGO -->
