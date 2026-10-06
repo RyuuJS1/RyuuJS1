@@ -31,41 +31,41 @@
 <!-- INICIO SECCIÓN SOBRE MÍ -->
 <div align="center">
 
-  <h3>📜 Presentación | Introduction 📜</h3>
+  <h3>📜 About Me 📜</h3>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🇲🇽 Español</h3>
-      <p>¡Hola! Soy <b>RyuuJS</b>, desarrollador enfocado en crear soluciones software eficientes, elegantes y de alto rendimiento.</p>
-      <p>Me apasiona la convergencia entre la arquitectura web moderna, el desarrollo con <b>C#</b>, <b>JavaScript</b> y <b>Python</b>, y la integración de Inteligencia Artificial.</p>
+      <h3>💻 Technical Focus</h3>
+      <p>Desarrollador enfocado en crear soluciones de software eficientes, elegantes y de alto rendimiento.</p>
+      <p>Especializado en la convergencia entre la arquitectura web moderna, el desarrollo backend con <b>C#</b>, <b>JavaScript</b> y <b>Python</b>, y la integración de Inteligencia Artificial.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🇬🇧 English</h3>
-      <p>Hi! I'm <b>RyuuJS</b>, a developer focused on building efficient, elegant, and high-performance software solutions.</p>
-      <p>I'm passionate about the convergence of modern web architecture, <b>C#</b>, <b>JavaScript</b>, and <b>Python</b> development, alongside AI integration.</p>
+      <h3>✨ Mindset & Background</h3>
+      <p>Software Engineering student driven by continuous learning, aesthetic UI design, and clean code crafting.</p>
+      <p>Passionate about turning complex problems into minimal, intuitive tools while exploring AI models and system architecture.</p>
     </td>
   </tr>
 </table>
 
-<h3>🎯 Proyectos & Pasatiempos | Projects & Interests 🎯</h3>
+<h3>🎯 Projects & Interests 🎯</h3>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔭 En Qué Estoy Trabajando</h3>
+      <h3>🔭 What I'm Building</h3>
       <ul>
-        <li><b>Proyectos Actuales:</b> Diseñando herramientas web ligeras y aplicaciones personalizadas.</li>
-        <li><b>Aprendizaje Continuo:</b> Patrones de diseño avanzados, modelos de IA y algoritmos.</li>
+        <li><b>Current Projects:</b> Designing lightweight web tools and custom applications.</li>
+        <li><b>Active Learning:</b> Advanced design patterns, AI models, and algorithms.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🎮 Pasatiempos e Intereses</h3>
+      <h3>🎮 Passions & Hobbies</h3>
       <ul>
-        <li>⚔️ <b>Gaming:</b> RPGs tácticos, estrategia y mundos inmersivos.</li>
-        <li>📖 <b>Investigación:</b> Arquitectura de software, filosofía y tecnología.</li>
-        <li>🎨 <b>Diseño & UI:</b> Interfaces estéticas y setups minimalistas.</li>
-        <li>☕ <b>Esenciales:</b> Café de especialidad, lo-fi y una terminal limpia.</li>
+        <li>⚔️ <b>Gaming:</b> Tactical RPGs, strategy, and immersive worlds.</li>
+        <li>📖 <b>Research:</b> Software architecture, philosophy, and tech trends.</li>
+        <li>🎨 <b>Design & UI:</b> Aesthetic interfaces and minimalist setups.</li>
+        <li>☕ <b>Essentials:</b> Specialty coffee, lo-fi beats, and a clean terminal.</li>
       </ul>
     </td>
   </tr>
@@ -87,7 +87,7 @@
 <!-- INICIO SECCIÓN CONÉCTATE CONMIGO -->
 <div align="center">
 
-  <h3>✉️ Conéctate Conmigo | Connect With Me ✉️</h3>
+  <h3>🤝 Connect With Me ✉️</h3>
 
   <p align="center">
     <!-- Gmail -->
@@ -103,7 +103,7 @@
       <img src="https://skillicons.dev/icons?i=discord" alt="Discord" height="48" />
     </a>
     <!-- X / Twitter -->
-    <a href="https://x.com/TU_USUARIO" target="_blank">
+    <a href="https://x.com/RyuuJS1" target="_blank">
       <img src="https://skillicons.dev/icons?i=twitter" alt="X / Twitter" height="48" />
     </a>
   </p>
