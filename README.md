@@ -53,10 +53,11 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔭 What I'm Building</h3>
+      <h3>💡 Code Philosophy</h3>
       <ul>
-        <li><b>Current Projects:</b> Designing lightweight web tools, APIs, and custom applications.</li>
-        <li><b>Continuous Growth:</b> Advanced software design patterns, AI integration, and scalable algorithms.</li>
+        <li><b>Clean Architecture:</b> Writing readable, maintainable, and scalable code.</li>
+        <li><b>Problem Solving:</b> Breaking down complex logic into efficient, intuitive solutions.</li>
+        <li><b>Continuous Growth:</b> Self-driven adaptability and passion for mastering new technologies.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
